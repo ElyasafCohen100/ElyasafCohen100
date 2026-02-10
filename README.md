@@ -32,27 +32,29 @@ from management systems and APIs to games and interactive applications.
 
 ## 🛠️ Tech Stack 🛠️
 
-### 💻 Backend
+### 💻 Backend:
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0A66C2?style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Backend-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### ⚛️ Frontend
+### ⚛️ Frontend:
+
+![Redux](https://img.shields.io/badge/Redux-State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Material UI](https://img.shields.io/badge/MUI-Design-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🐍 Python & GUI
+### 🐍 Python & GUI:
+
+![Processing](https://img.shields.io/badge/Processing-Creative_Coding-006699?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-Creative_Coding-006699?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
 - 📈 **Investment Advisor Project:**
-    – AI-powered stock portfolio manager  
+      AI-powered stock portfolio manager  
 - 🚁 **Drone Delivery Manager** – multi-layer system with live simulator  
 - 📱 **React PhoneBook App** – modern UI with Redux & MUI  
 - 🐶 **Doggy Bones Game** – fun arcade game built with Processing  
