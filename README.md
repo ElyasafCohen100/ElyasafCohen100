@@ -61,6 +61,7 @@ from management systems and APIs to games and interactive applications.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect 🤝
