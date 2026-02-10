@@ -59,7 +59,7 @@ from management systems and APIs to games and interactive applications.
 ⭐ Stars • 🍴 Forks • 📦 Repositories • 🔁 Commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
 ---
 
