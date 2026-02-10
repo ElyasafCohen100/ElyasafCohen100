@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
 
 <h3 align="center">
-Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
+Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
 </h3>
 
 <p align="center">
@@ -23,10 +23,10 @@ Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
 
 ## ✨ About Me ✨
 
-I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end — from clean backend architecture to polished frontend experiences 🎨⚙️  
+I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end —> from clean backend architecture to polished frontend experiences 🎨⚙️  
 
 I enjoy combining **logic, creativity, and technology** to create meaningful projects -  
-from management systems and APIs to games and interactive applications.
+from management systems and APIs to games and interactive applications. 🥳🪄
 
 ---
 
@@ -53,7 +53,7 @@ from management systems and APIs to games and interactive applications.
 
 ## 🚀 Featured Projects
 
-- 📈 **Investment Advisor Project** - AI-powered stock portfolio manager
+- 📈 **Investment Advisor Project** - AI powered stock portfolio manager
   
 - 🚁 **Drone Delivery Manager** – multi-layer system with live simulator
  
