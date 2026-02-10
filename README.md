@@ -75,8 +75,11 @@ from management systems and APIs to games and interactive applications.
 
 ## 🌱 Currently Learning 🌱
 -  🤖 AI-driven systems & LLM integrations
--  🧠 Neural Networks & practical ML   
--  🏗️ Designing scalable backend architectures    
+  
+-  🧠 Neural Networks & practical ML
+    
+-  🏗️ Designing scalable backend architectures
+      
 -  🎮 Creative coding & interactive experiences
 
 ---
