@@ -2,7 +2,7 @@
   <img src="me.jpg" width="180" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Elyasaf</h1>
+<h1 align="center">Hi 👋, I'm Elyasaf Cohen </h1>
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
@@ -17,18 +17,16 @@ Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
 
 ---
 
-## ✨ About Me
+## ✨ About Me ✨
 
-Hey 👋,
-I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end —  
-from clean backend architecture to polished frontend experiences 🎨⚙️  
+I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end — from clean backend architecture to polished frontend experiences 🎨⚙️  
 
 I enjoy combining **logic, creativity, and technology** to create meaningful projects —  
 from management systems and APIs to games and interactive applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
 ### 💻 Backend
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -56,7 +54,7 @@ from management systems and APIs to games and interactive applications.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&theme=tokyonight"/>
@@ -64,7 +62,7 @@ from management systems and APIs to games and interactive applications.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 🤝
 
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
@@ -74,5 +72,4 @@ from management systems and APIs to games and interactive applications.
 
 ---
 
-✨ Built with curiosity, consistency, and good vibes  
-בעזרת השם — **always learning, always building** 💯🚀
+> ✨ Built with curiosity, consistency, and good vibes ✨ 
