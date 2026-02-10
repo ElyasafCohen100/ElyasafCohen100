@@ -2,7 +2,7 @@
   <img src="me.jpg" width="180" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Elyasaf Cohen </h1>
+<h1 align="center">Hi 👋 I'm Elyasaf Cohen </h1>
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
@@ -21,7 +21,7 @@ Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
 
 I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end — from clean backend architecture to polished frontend experiences 🎨⚙️  
 
-I enjoy combining **logic, creativity, and technology** to create meaningful projects —  
+I enjoy combining **logic, creativity, and technology** to create meaningful projects -  
 from management systems and APIs to games and interactive applications.
 
 ---
@@ -56,11 +56,20 @@ from management systems and APIs to games and interactive applications.
 
 ## 📊 GitHub Stats 📊
 
-⭐ Stars • 🍴 Forks • 📦 Repositories • 🔁 Commits
+🔥 Contribution Activity & Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&theme=github-dark" />
+
+---
+
+## 🌱 Currently Learning
+- AI & Neural Networks
+- LLMs & RAG
+- Advanced System Design
 
 ---
 
