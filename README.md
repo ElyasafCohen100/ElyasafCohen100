@@ -53,8 +53,7 @@ from management systems and APIs to games and interactive applications.
 
 ## 🚀 Featured Projects
 
-- 📈 **Investment Advisor Project:**
-      AI-powered stock portfolio manager  
+- 📈 #**Investment Advisor Project** - AI-powered stock portfolio manager  
 - 🚁 **Drone Delivery Manager** – multi-layer system with live simulator  
 - 📱 **React PhoneBook App** – modern UI with Redux & MUI  
 - 🐶 **Doggy Bones Game** – fun arcade game built with Processing  
