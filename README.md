@@ -53,16 +53,19 @@ from management systems and APIs to games and interactive applications.
 
 ## 🚀 Featured Projects
 
-- 📈 **Investment Advisor Project** - AI-powered stock portfolio manager  
-- 🚁 **Drone Delivery Manager** – multi-layer system with live simulator  
-- 📱 **React PhoneBook App** – modern UI with Redux & MUI  
+- 📈 **Investment Advisor Project** - AI-powered stock portfolio manager
+-  
+- 🚁 **Drone Delivery Manager** – multi-layer system with live simulator
+- 
+- 📱 **React PhoneBook App** – modern UI with Redux & MUI
+- 
 - 🐶 **Doggy Bones Game** – fun arcade game built with Processing  
 
 ---
 
 ## 📊 GitHub Stats 📊
 
-🔥 Contribution Activity & Streak
+🔥 Contribution Activity & Streak 🔥
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
@@ -71,10 +74,10 @@ from management systems and APIs to games and interactive applications.
 ---
 
 ## 🌱 Currently Learning 🌱
--  AI-driven systems & LLM integrations 🤖
--  Neural Networks & practical ML 🧠  
--  Designing scalable backend architectures 🏗️   
--  Creative coding & interactive experiences 🎮 
+-  🤖 AI-driven systems & LLM integrations
+-  🧠 Neural Networks & practical ML   
+-  🏗️ Designing scalable backend architectures    
+-  🎮 Creative coding & interactive experiences
 
 ---
 
