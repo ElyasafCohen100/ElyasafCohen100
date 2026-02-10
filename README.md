@@ -2,6 +2,10 @@
   <img src="me.jpg" width="180" style="border-radius:50%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Creative+Builder;Problem+Solver&center=true&width=500">
+</p>
+
 <h1 align="center">Hi 👋 I'm Elyasaf Cohen </h1>
 
 <h3 align="center">
