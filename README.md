@@ -59,9 +59,8 @@ from management systems and APIs to games and interactive applications.
 ⭐ Stars • 🍴 Forks • 📦 Repositories • 🔁 Commits
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect 🤝
