@@ -57,7 +57,7 @@ from management systems and APIs to games and interactive applications.
 ## 📊 GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 ---
