@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Creative+Builder;Problem+Solver&center=true&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=💻+Full-Stack+Developer;⛏️+Creative+Builder;🛠️+Problem+Solver&center=true&width=500">
 </p>
 
-<h1 align="center">Hi 👋 I'm Elyasaf Cohen </h1>
+<h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Creative Builder 🧠💻
@@ -66,7 +66,9 @@ from management systems and APIs to games and interactive applications.
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&theme=github-dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyasafCohen100&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
