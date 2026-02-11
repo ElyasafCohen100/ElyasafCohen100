@@ -51,7 +51,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 🚀
 
 - 📈 **Investment Advisor Project** - AI powered stock portfolio manager
   
