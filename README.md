@@ -55,7 +55,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 - 📈 **Investment Advisor Project** - AI powered stock portfolio manager
   
-- 🚁 **Drone Delivery Manager** – multi-layer system with live simulator
+- 🚁 **Drone Delivery Manager** – multi layer system with live simulator
  
 - 📱 **React PhoneBook App** – modern UI with Redux & MUI
  
