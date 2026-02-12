@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElyasafCohen100/ElyasafCohen100/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
 <p align="center">
   <img src="me.jpg" width="180" style="border-radius:50%"/>
 </p>
