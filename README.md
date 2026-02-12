@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElyasafCohen100/ElyasafCohen100/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ElyasafCohen100/ElyasafCohen100/output/github-contribution-grid-snake.svg">
 </p>
 
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer+💻;Creative+Builder+⛏️;Problem+Solver+🛠️&center=true&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Creative+Builder+🚀;Problem+Solver+🛠️">
 </p>
 
 <h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
