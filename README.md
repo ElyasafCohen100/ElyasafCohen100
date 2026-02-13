@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Creative+Builder+🚀;Problem+Solver+🛠️">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=2EA0F8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+💻;Creative+Builder+🚀;Problem+Solver+🛠️">
 </p>
 
 <h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
