@@ -1,16 +1,9 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ElyasafCohen100/ElyasafCohen100/output/github-contribution-grid-snake.svg">
-</p>
-
-
-
 <p align="center">
   <img src="me.jpg" width="180" style="border-radius:50%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Creative+Builder+🚀;Problem+Solver+🛠️">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Creative+Builder+🚀;Problem+Solver+🛠️">
 </p>
 
 <h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
