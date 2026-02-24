@@ -60,11 +60,11 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 - 📈 **[Investment Advisor Project](https://github.com/ElyasafCohen100/Investment-Advisor-Project)** - AI powered stock portfolio manager
   
-- 🚁 **Drone Delivery Manager** – multi layer system with live simulator
+- 🚁 **[Drone Delivery Manager](https://github.com/ElyasafCohen100/Drone-Delivery-Manager)** – multi layer system with live simulator
  
-- 📱 **React PhoneBook App** – modern UI with Redux & MUI
+- 📱 **[React PhoneBook App](https://github.com/ElyasafCohen100/React-PhoneBook-App)** – modern UI with Redux & MUI
  
-- 🐶 **Doggy Bones Game** – fun arcade game built with Processing  
+- 🐶 **[Doggy Bones Game](https://github.com/ElyasafCohen100/Doggy-bones-game)** – fun arcade game built with Processing  
 
 ---
 
