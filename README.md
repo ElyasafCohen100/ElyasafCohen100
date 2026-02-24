@@ -97,7 +97,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
-    <img src="https://img.shields.io/badge/GitHub-Elyasaf-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+   [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-black?style=for-the-badge&logo=github)](https://github.com/ElyasafCohen100)
   </a>
 </p>
 
