@@ -19,6 +19,11 @@ Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
   <img src="https://img.shields.io/github/stars/ElyasafCohen100?label=Total%20Stars&style=for-the-badge"/>
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ElyasafCohen100&label=Profile+Views&color=10125c&style=for-the-badge" />
+</p>
+
 ---
 
 ## ✨ About Me ✨
@@ -53,27 +58,40 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ## 🚀 Featured Projects 🚀
 
-- 📈 **Investment Advisor Project** - AI powered stock portfolio manager
+- 📈 **[Investment Advisor Project](https://github.com/ElyasafCohen100/Investment-Advisor-Project)** - AI powered stock portfolio manager
   
-- 🚁 **Drone Delivery Manager** – multi layer system with live simulator
+- 🚁 **[Drone Delivery Manager](https://github.com/ElyasafCohen100/Drone-Delivery-Manager)** – multi layer system with live simulator
  
-- 📱 **React PhoneBook App** – modern UI with Redux & MUI
+- 📱 **[React PhoneBook App](https://github.com/ElyasafCohen100/React-PhoneBook-App)** – modern UI with Redux & MUI
  
-- 🐶 **Doggy Bones Game** – fun arcade game built with Processing  
+- 🐶 **[Doggy Bones Game](https://github.com/ElyasafCohen100/Doggy-bones-game)** – fun arcade game built with Processing  
 
 ---
 
 ## 📊 GitHub Stats 📊
 
-🔥 Contribution Activity & Streak 🔥
+<p align="center">
+  <sub>Real-time activity • Streak intelligence • Contribution analytics</sub>
+</p>
+
+### 🔥 Official Contribution Overview 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
+</p>
 
+---
+
+### 🏁 Custom Activity Engine 
 <p align="center">
   <img src="dashboard.svg" />
+</p>
+<p align="center">
+  <sub>Built & maintained by Elyasaf Cohen • Powered by GitHub API</sub>
 </p>
 
 ---
@@ -94,11 +112,10 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 <p align="center">
   <img src="EC.jpeg" width="600">
 </p>
-
-
-<p align="center">
+                                            
+<p align="center">                    
   <a href="https://github.com/ElyasafCohen100">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
