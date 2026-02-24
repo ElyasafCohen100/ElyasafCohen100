@@ -86,7 +86,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ---
 
-#### 🏎️ Custom Activity Engine 🏎️
+#### 🏁🏎️  Custom Activity Engine  🏁🏎️
 <p align="center">
   <img src="dashboard.svg" />
 </p>
