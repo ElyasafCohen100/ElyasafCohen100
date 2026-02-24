@@ -106,7 +106,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
   <img src="EC.jpeg" width="600">
 </p>
 
-⚔️<p align="center">
+⚔️<p align="center">                    ⚔️
   <a href="https://github.com/ElyasafCohen100">
     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
   </a>
