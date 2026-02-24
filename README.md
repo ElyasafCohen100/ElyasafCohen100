@@ -19,6 +19,8 @@ Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
   <img src="https://img.shields.io/github/stars/ElyasafCohen100?label=Total%20Stars&style=for-the-badge"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=ElyasafCohen100&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 ---
 
 ## ✨ About Me ✨
