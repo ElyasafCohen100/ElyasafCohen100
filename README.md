@@ -77,14 +77,14 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 </p>
 
 <p align="center">
-  <img src="dashboard.svg" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
 </p>
 
 ---
 
 ⏳ Contribution Activity & Streak ⏳
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
+  <img src="dashboard.svg" />
 </p>
 
 ---
