@@ -95,40 +95,9 @@ from management systems and APIs to games and interactive applications. 🥳🪄
   <img src="EC.jpeg" width="600">
 </p>
 
-
-<p align="center">
-  <div style="
-    display:inline-block;
-    padding:12px;
-    border-radius:18px;
-    border:3px solid #d4af37;
-    box-shadow:0 0 25px rgba(212,175,55,0.5);
-  ">
-    <img src="EC.jpeg" width="650" style="border-radius:12px;">
-  </div>
-</p>
-
-
-<p align="center">
-  <div style="
-    display:inline-block;
-    padding:16px;
-    border-radius:22px;
-    background:linear-gradient(145deg,#2b1d00,#000000);
-    border:3px solid #d4af37;
-    box-shadow:
-      0 0 30px rgba(255,215,0,0.6),
-      0 0 60px rgba(255,140,0,0.4);
-  ">
-    <img src="EC.jpeg" width="650" style="border-radius:14px;">
-  </div>
-</p>
-
-
-
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Elyasaf-Cohen-My-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
