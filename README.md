@@ -21,7 +21,7 @@ Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElyasafCohen100&label=Profile+Views&color=#000000&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ElyasafCohen100&label=Profile+Views&color=#10125c&style=for-the-badge" />
 </p>
 ---
 
