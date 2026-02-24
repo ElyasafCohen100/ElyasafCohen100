@@ -221,5 +221,5 @@ const svg = `
 </svg>
 `;
 
-fs.writeFileSync("dashboard-v2.svg", svg);
+fs.writeFileSync("dashboard.svg", svg);
 console.log("✅ dashboard-v2.svg updated");
