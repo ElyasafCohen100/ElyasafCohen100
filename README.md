@@ -95,9 +95,6 @@ from management systems and APIs to games and interactive applications. 🥳🪄
   <img src="EC.jpeg" width="600">
 </p>
 
-<p align="center">
-  <img src="EC2.png" width="600">
-</p>
 
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
