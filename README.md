@@ -74,7 +74,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
   <sub>Real-time activity • Streak intelligence • Contribution analytics</sub>
 </p>
 
-####### 🔥 Official Contribution Overview 🔥
+##### 🔥 Official Contribution Overview 🔥
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
