@@ -58,7 +58,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ## 🚀 Featured Projects 🚀
 
-- 📈 **Investment Advisor Project** - AI powered stock portfolio manager
+- 📈 **[Investment Advisor Project]([url](https://github.com/ElyasafCohen100/Investment-Advisor-Project))** - AI powered stock portfolio manager
   
 - 🚁 **Drone Delivery Manager** – multi layer system with live simulator
  
@@ -86,7 +86,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ---
 
-#### 🏁🏎️ Custom Activity Engine 🏎️🏁
+#### 🏎️🏁 Custom Activity Engine 🏎️🏁
 <p align="center">
   <img src="dashboard.svg" />
 </p>
