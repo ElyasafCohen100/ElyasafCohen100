@@ -1,0 +1,1434 @@
+
+<svg 
+     width="100%"
+     viewBox="0 0 1600 800"
+     preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg"
+     shape-rendering="geometricPrecision"
+     text-rendering="geometricPrecision">
+
+  <defs>
+
+    <radialGradient id="metal">
+      <stop offset="0%" stop-color="#bbb"/>
+      <stop offset="50%" stop-color="#444"/>
+      <stop offset="100%" stop-color="#aaa"/>
+    </radialGradient>
+
+    <radialGradient id="dial">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+
+    <linearGradient id="fire" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0000"/>
+      <stop offset="50%" stop-color="#ff6600"/>
+      <stop offset="100%" stop-color="#ffff00"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  
+  <circle cx="230" cy="420" r="233" fill="url(#metal)"/>
+  <circle cx="230" cy="420" r="215" fill="url(#dial)"/>
+
+  <path d="M 59.39299545446559 518.5
+          A 197 197 0 1 1 400.60700454553444 518.5"
+        stroke="url(#fire)"
+        stroke-width="5"
+        fill="none"
+        stroke-linecap="round"
+        filter="url(#glow)"
+        stroke-dasharray="825.1916703429189"
+        stroke-dashoffset="825.1916703429189">
+    <animate attributeName="stroke-dashoffset"
+             from="825.1916703429189"
+             to="610.64183605376"
+             dur="1s"
+             fill="freeze"/>
+  </path>
+
+  
+      <line x1="74.11542731880104" y1="510"
+            x2="108.7564434701786" y2="490"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="70.48335573838133" y1="503.39328632157503"
+            x2="92.6384452191617" y2="491.8108854435785"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="67.13113055611646" y1="496.640272481713"
+            x2="89.75180686776696" y2="485.9957901925862"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="64.06463271406992" y1="489.7528055613785"
+            x2="87.11121150378241" y2="480.06491590007596"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="61.28924189145951" y1="482.7429685179267"
+            x2="84.7212916287568" y2="474.02866733488133"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="58.80982706687237" y1="475.6230589874906"
+            x2="82.58623997425121" y2="467.8976341281169"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="56.63073797642153" y1="468.4055677107478"
+            x2="80.70980214636299" y2="461.68257219536616"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="54.755797482831156" y1="461.10315661991797"
+            x2="79.09527005466015" y2="455.3943848671516"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="53.18829486883604" y1="453.72863662543045"
+            x2="77.74547613705326" y2="449.0441037607873"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="51.9309800666621" y1="446.29494514123405"
+            x2="76.66278839073681" y2="442.64286942717376"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.986058833710786" y1="438.81512338817754"
+            x2="90.76693464844172" y2="434.63398485747143"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.35518888291111" y1="431.3022935152764"
+            x2="75.3058570936179" y2="429.7325305270436"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.039476974527815" y1="423.7696355790042"
+            x2="75.03399406139894" y2="423.2460750819203"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.039476974527815" y1="416.2303644209958"
+            x2="75.03399406139894" y2="416.7539249180797"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.35518888291111" y1="408.69770648472354"
+            x2="75.3058570936179" y2="410.2674694729564"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="50.986058833710814" y1="401.18487661182235"
+            x2="75.84910621791764" y2="403.79808819351365"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="51.9309800666621" y1="393.70505485876595"
+            x2="76.66278839073681" y2="397.35713057282624"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="53.18829486883604" y1="386.27136337456955"
+            x2="77.74547613705326" y2="390.9558962392127"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="54.75579748283113" y1="378.89684338008203"
+            x2="79.09527005466015" y2="384.6056151328484"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="56.63073797642153" y1="371.59443228925215"
+            x2="80.70980214636299" y2="378.3174278046338"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="58.80982706687237" y1="364.37694101250946"
+            x2="96.85208771867852" y2="376.73762078750735"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="61.28924189145954" y1="357.2570314820732"
+            x2="84.72129162875683" y2="365.9713326651186"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="64.06463271406992" y1="350.2471944386214"
+            x2="87.11121150378244" y2="359.935084099924"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="67.13113055611649" y1="343.35972751828695"
+            x2="89.75180686776696" y2="354.00420980741376"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="70.48335573838133" y1="336.6067136784249"
+            x2="92.63844521916172" y2="348.18911455642143"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="74.11542731880104" y1="330"
+            x2="95.76606241341199" y2="342.5"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="78.02097340963729" y1="323.55117690378063"
+            x2="99.12917154718767" y2="336.9468467782555"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="82.19314235593333" y1="317.2715578168022"
+            x2="102.72187258427593" y2="331.539397008913"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="86.62461475564464" y1="311.17215932477257"
+            x2="106.53786270624954" y2="326.28713719633197"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="91.30761630035795" y1="305.26368184523585"
+            x2="110.57044736975269" y2="321.19928158895306"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="96.23393141406905" y1="299.5564908554055"
+            x2="125.95972443316482" y2="326.32171510975985"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="101.39491766609544" y1="294.0605987075942"
+            x2="119.25673465691551" y2="311.55218222042834"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="106.78152093283609" y1="288.7856470641459"
+            x2="123.8951985810533" y2="307.0098627496812"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="112.38429128178102" y1="283.7408899826838"
+            x2="128.71980638153366" y2="302.66576637397776"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="118.1933995499042" y1="278.9351776813488"
+            x2="133.72209405686195" y2="298.5275141144948"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="124.19865458735485" y1="274.37694101250946"
+            x2="138.8932858946667" y2="294.60236587188314"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="130.38952113619803" y1="270.07417667218215"
+            x2="144.22430986728165" y2="290.8972076899346"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="136.7551383128366" y1="266.0344331711088"
+            x2="149.70581354716484" y2="287.41853967512145"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="143.2843386616913" y1="262.2647975921045"
+            x2="155.32818051423416" y2="284.17246459320114"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="149.9656677467131" y1="258.7718831569057"
+            x2="161.08154722633628" y2="281.164677162891"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="156.78740424635598" y1="255.56181762433184"
+            x2="173.056869969388" y2="292.10363593003586"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="163.73758051675793" y1="252.64023254011477"
+            x2="172.9406943338749" y2="275.88464468732104"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="170.80400358705504" y1="250.0122533572534"
+            x2="179.0256697555196" y2="273.62166261319044"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="177.97427654999518" y1="247.68249044422788"
+            x2="185.20007147360695" y2="271.61547788252955"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="185.23582031032612" y1="245.6550309968464"
+            x2="191.4530674894475" y2="269.8696100250622"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="192.57589565280335" y1="243.93343186791498"
+            x2="197.77368792324734" y2="268.3871218862601"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="199.9816255911016" y1="242.5207133273091"
+            x2="204.15084425900415" y2="267.1706142540717"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="207.44001795842522" y1="241.419353763394"
+            x2="210.57334879753282" y2="266.22222129625595"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="214.9379882001832" y1="240.63128533508922"
+            x2="217.0299342834911" y2="265.5436068163268"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="222.46238232874407" y1="240.15789058220548"
+            x2="223.50927367197406" y2="265.13596133467695"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="230" y1="240"
+            x2="230" y2="280"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="237.537617671256" y1="240.15789058220548"
+            x2="236.490726328026" y2="265.13596133467695"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="245.06201179981682" y1="240.63128533508922"
+            x2="242.97006571650894" y2="265.5436068163268"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="252.55998204157476" y1="241.41935376339399"
+            x2="249.42665120246716" y2="266.22222129625595"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="260.0183744088985" y1="242.52071332730912"
+            x2="255.84915574099594" y2="267.1706142540718"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="267.4241043471967" y1="243.933431867915"
+            x2="262.2263120767527" y2="268.38712188626016"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="274.7641796896739" y1="245.6550309968464"
+            x2="268.5469325105525" y2="269.8696100250622"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="282.0257234500049" y1="247.68249044422788"
+            x2="274.79992852639305" y2="271.61547788252955"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="289.19599641294496" y1="250.0122533572534"
+            x2="280.97433024448037" y2="273.62166261319044"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="296.262419483242" y1="252.64023254011474"
+            x2="287.05930566612506" y2="275.88464468732104"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="303.21259575364405" y1="255.56181762433184"
+            x2="286.94313003061205" y2="292.10363593003586"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="310.03433225328695" y1="258.7718831569057"
+            x2="298.9184527736638" y2="281.164677162891"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="316.7156613383088" y1="262.26479759210457"
+            x2="304.6718194857659" y2="284.1724645932012"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="323.2448616871634" y1="266.03443317110873"
+            x2="310.29418645283516" y2="287.41853967512145"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="329.610478863802" y1="270.0741766721821"
+            x2="315.77569013271835" y2="290.8972076899346"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="335.80134541264516" y1="274.37694101250946"
+            x2="321.10671410533337" y2="294.60236587188314"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="341.8066004500959" y1="278.9351776813489"
+            x2="326.27790594313814" y2="298.52751411449486"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="347.615708718219" y1="283.7408899826839"
+            x2="331.28019361846634" y2="302.6657663739778"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="353.218479067164" y1="288.78564706414596"
+            x2="336.1048014189468" y2="307.00986274968125"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="358.60508233390465" y1="294.06059870759424"
+            x2="340.74326534308454" y2="311.55218222042834"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="363.76606858593095" y1="299.5564908554055"
+            x2="334.0402755668352" y2="326.32171510975985"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="368.69238369964205" y1="305.2636818452358"
+            x2="349.4295526302473" y2="321.19928158895306"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="373.3753852443553" y1="311.1721593247725"
+            x2="353.4621372937504" y2="326.28713719633186"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="377.80685764406667" y1="317.2715578168023"
+            x2="357.2781274157241" y2="331.53939700891306"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="381.9790265903627" y1="323.55117690378063"
+            x2="360.87082845281236" y2="336.9468467782555"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="385.88457268119896" y1="330"
+            x2="364.233937586588" y2="342.5"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="389.5166442616187" y1="336.6067136784249"
+            x2="367.3615547808383" y2="348.18911455642143"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="392.8688694438835" y1="343.35972751828695"
+            x2="370.24819313223304" y2="354.00420980741376"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="395.9353672859301" y1="350.2471944386215"
+            x2="372.88878849621756" y2="359.9350840999241"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="398.7107581085405" y1="357.25703148207333"
+            x2="375.27870837124317" y2="365.9713326651187"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="401.19017293312766" y1="364.37694101250946"
+            x2="363.1479122813215" y2="376.73762078750735"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="403.3692620235785" y1="371.5944322892522"
+            x2="379.290197853637" y2="378.31742780463384"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="405.24420251716884" y1="378.8968433800819"
+            x2="380.9047299453398" y2="384.6056151328483"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="406.811705131164" y1="386.27136337456955"
+            x2="382.2545238629467" y2="390.9558962392127"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="408.0690199333379" y1="393.7050548587659"
+            x2="383.3372116092632" y2="397.3571305728262"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.0139411662892" y1="401.1848766118224"
+            x2="384.15089378208233" y2="403.7980881935137"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.6448111170889" y1="408.6977064847236"
+            x2="384.6941429063821" y2="410.26746947295646"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.9605230254722" y1="416.2303644209958"
+            x2="384.96600593860103" y2="416.7539249180797"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.9605230254722" y1="423.7696355790042"
+            x2="384.96600593860103" y2="423.2460750819203"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.6448111170889" y1="431.3022935152764"
+            x2="384.6941429063821" y2="429.73253052704354"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="409.0139411662892" y1="438.8151233881776"
+            x2="369.23306535155825" y2="434.6339848574715"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="408.0690199333379" y1="446.2949451412341"
+            x2="383.3372116092632" y2="442.6428694271738"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="406.811705131164" y1="453.72863662543045"
+            x2="382.2545238629467" y2="449.0441037607873"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="405.24420251716884" y1="461.1031566199181"
+            x2="380.9047299453398" y2="455.3943848671517"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="403.3692620235785" y1="468.4055677107478"
+            x2="379.290197853637" y2="461.68257219536616"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="401.19017293312766" y1="475.62305898749054"
+            x2="377.4137600257488" y2="467.89763412811686"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="398.7107581085405" y1="482.74296851792667"
+            x2="375.27870837124317" y2="474.0286673348813"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="395.9353672859301" y1="489.7528055613785"
+            x2="372.88878849621756" y2="480.0649159000759"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="392.8688694438835" y1="496.64027248171305"
+            x2="370.24819313223304" y2="485.99579019258624"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="389.5166442616187" y1="503.3932863215751"
+            x2="367.3615547808383" y2="491.81088544357857"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="385.88457268119896" y1="510"
+            x2="351.24355652982143" y2="490"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+  
+        <text x="139.06733260263394" y="472.5"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              0
+        </text>
+        <text x="125.5752009863313" y="430.9754886431036"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              10
+        </text>
+        <text x="130.1390657890089" y="387.55321559063054"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              20
+        </text>
+        <text x="151.96979332487362" y="349.7412863323199"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              30
+        </text>
+        <text x="187.29265247704097" y="324.0777269475269"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              40
+        </text>
+        <text x="230" y="315"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              50
+        </text>
+        <text x="272.707347522959" y="324.0777269475269"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              60
+        </text>
+        <text x="308.0302066751264" y="349.7412863323199"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              70
+        </text>
+        <text x="329.8609342109911" y="387.55321559063054"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              80
+        </text>
+        <text x="334.4247990136687" y="430.97548864310363"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              90
+        </text>
+        <text x="320.93266739736606" y="472.5"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              100
+        </text>
+
+  <polygon points="
+      225,420
+      235,420
+      230,295"
+      fill="url(#fire)"
+      transform="rotate(-120 230 420)"
+      filter="url(#glow)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="-120 230 420"
+      to="-57.599999999999994 230 420"
+      dur="1s"
+      fill="freeze"/>
+  </polygon>
+
+  <circle cx="230" cy="420" r="10" fill="white"/>
+
+  <ellipse cx="230" cy="351.2"
+           rx="139.75"
+           ry="53.75"
+           fill="white"
+           opacity="0.05"/>
+
+  <text x="230" y="351.2"
+        text-anchor="middle"
+        fill="url(#fire)"
+        font-size="20"
+        font-weight="bold"
+        letter-spacing="2"
+        filter="url(#glow)">
+    PERCENT
+  </text>
+
+  <rect x="145" y="550"
+        width="170"
+        height="55"
+        rx="10"
+        fill="#1b3a0f"/>
+
+  <text x="230" y="579.5"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#9CFF00"
+        font-size="18"
+        letter-spacing="2">
+    26% COMMITS
+  </text>
+  
+  
+  <circle cx="800" cy="420" r="313" fill="url(#metal)"/>
+  <circle cx="800" cy="420" r="295" fill="url(#dial)"/>
+
+  <path d="M 560.1109631517105 558.5
+          A 277 277 0 1 1 1039.8890368482896 558.5"
+        stroke="url(#fire)"
+        stroke-width="5"
+        fill="none"
+        stroke-linecap="round"
+        filter="url(#glow)"
+        stroke-dasharray="1160.29488672583"
+        stroke-dashoffset="1160.29488672583">
+    <animate attributeName="stroke-dashoffset"
+             from="1160.29488672583"
+             to="1044.265398053247"
+             dur="1s"
+             fill="freeze"/>
+  </path>
+
+  
+      <line x1="574.833395016046" y1="550"
+            x2="609.4744111674236" y2="530"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="558.9321978126353" y1="517.3977142881371"
+            x2="582.111794176805" y2="508.0325494527393"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="547.7231111682408" y1="482.89969285591354"
+            x2="571.9805043251408" y2="476.8516454659219"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="541.4243072042489" y1="447.1774004495898"
+            x2="566.2873545884557" y2="444.56418886789845"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="540.1583849750351" y1="410.9261308573498"
+            x2="565.1431556505124" y2="411.7986182749123"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="543.9499842168259" y1="374.8514738065981"
+            x2="583.3422943373142" y2="381.79740091327534"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="552.72530576326" y1="339.6555814625136"
+            x2="576.5017186706389" y2="347.38100632188736"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="566.3135479622166" y1="306.0235018348399"
+            x2="588.7833991196958" y2="316.98278050456685"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="584.4502311356891" y1="274.6098450976058"
+            x2="605.1761704495652" y2="288.5896676843745"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="606.7823453758775" y1="246.02604234669684"
+            x2="625.3609660128124" y2="262.7543075056683"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="632.8752214814998" y1="220.8284447890657"
+            x2="658.5867258689614" y2="251.47022251382484"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="662.2209912993667" y1="199.50749499932923"
+            x2="675.4689729051969" y2="220.70869740323988"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="694.248472800292" y1="182.47818101292376"
+            x2="704.4168888771869" y2="205.31681745398876"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="728.3342874875802" y1="170.0719590560371"
+            x2="735.2252213830052" y2="194.10350145449507"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="763.814993750383" y1="162.5303021271917"
+            x2="767.2943212743846" y2="187.28700384573096"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="800" y1="160"
+            x2="800" y2="200"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="836.1850062496171" y1="162.53030212719176"
+            x2="832.7056787256155" y2="187.287003845731"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="871.6657125124198" y1="170.0719590560371"
+            x2="864.7747786169948" y2="194.10350145449507"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="905.7515271997081" y1="182.47818101292378"
+            x2="895.5831111228131" y2="205.3168174539888"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="937.7790087006333" y1="199.50749499932923"
+            x2="924.5310270948031" y2="220.70869740323988"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="967.1247785185002" y1="220.8284447890657"
+            x2="941.4132741310386" y2="251.47022251382484"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="993.2176546241225" y1="246.02604234669687"
+            x2="974.6390339871876" y2="262.7543075056683"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1015.5497688643109" y1="274.6098450976058"
+            x2="994.8238295504348" y2="288.5896676843745"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1033.6864520377835" y1="306.02350183483986"
+            x2="1011.2166008803042" y2="316.9827805045668"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1047.2746942367398" y1="339.6555814625137"
+            x2="1023.4982813293611" y2="347.38100632188736"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1056.050015783174" y1="374.8514738065981"
+            x2="1016.6577056626858" y2="381.79740091327534"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1059.841615024965" y1="410.92613085734973"
+            x2="1034.8568443494876" y2="411.79861827491226"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1058.5756927957511" y1="447.1774004495899"
+            x2="1033.7126454115441" y2="444.56418886789857"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1052.2768888317592" y1="482.8996928559136"
+            x2="1028.0194956748592" y2="476.85164546592193"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1041.0678021873648" y1="517.3977142881371"
+            x2="1017.888205823195" y2="508.0325494527393"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1025.1666049839541" y1="550"
+            x2="990.5255888325765" y2="530"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+  
+        <text x="639.7853002998788" y="512.5"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              0
+        </text>
+        <text x="617.8105656927415" y="387.8750871316179"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              5
+        </text>
+        <text x="681.0842922079902" y="278.2817780229891"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              10
+        </text>
+        <text x="800" y="235"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              15
+        </text>
+        <text x="918.9157077920098" y="278.2817780229891"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              20
+        </text>
+        <text x="982.1894343072585" y="387.8750871316179"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              25
+        </text>
+        <text x="960.2146997001212" y="512.5"
+              fill="url(#fire)"
+              font-size="26"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              30
+        </text>
+
+  <polygon points="
+      795,420
+      805,420
+      800,215"
+      fill="url(#fire)"
+      transform="rotate(-120 800 420)"
+      filter="url(#glow)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="-120 800 420"
+      to="-96 800 420"
+      dur="1s"
+      fill="freeze"/>
+  </polygon>
+
+  <circle cx="800" cy="420" r="10" fill="white"/>
+
+  <ellipse cx="800" cy="325.6"
+           rx="191.75"
+           ry="73.75"
+           fill="white"
+           opacity="0.05"/>
+
+  <text x="800" y="325.6"
+        text-anchor="middle"
+        fill="url(#fire)"
+        font-size="28"
+        font-weight="bold"
+        letter-spacing="2"
+        filter="url(#glow)">
+    DAYS
+  </text>
+
+  <rect x="710" y="630"
+        width="180"
+        height="55"
+        rx="10"
+        fill="#1b3a0f"/>
+
+  <text x="800" y="659.5"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#9CFF00"
+        font-size="20"
+        letter-spacing="2">
+    3 DAYS
+  </text>
+  
+  
+  <circle cx="1370" cy="420" r="233" fill="url(#metal)"/>
+  <circle cx="1370" cy="420" r="215" fill="url(#dial)"/>
+
+  <path d="M 1199.3929954544656 518.5
+          A 197 197 0 1 1 1540.6070045455344 518.5"
+        stroke="url(#fire)"
+        stroke-width="5"
+        fill="none"
+        stroke-linecap="round"
+        filter="url(#glow)"
+        stroke-dasharray="825.1916703429189"
+        stroke-dashoffset="825.1916703429189">
+    <animate attributeName="stroke-dashoffset"
+             from="825.1916703429189"
+             to="715.1661142971964"
+             dur="1s"
+             fill="freeze"/>
+  </path>
+
+  
+      <line x1="1214.115427318801" y1="510"
+            x2="1248.7564434701785" y2="490"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1203.1069061779783" y1="487.4291868148642"
+            x2="1226.286502542148" y2="478.06402197946636"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1195.3467692703207" y1="463.54594120794013"
+            x2="1219.6041624272204" y2="457.49789381794847"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1190.9860588337108" y1="438.81512338817754"
+            x2="1215.8491062179176" y2="436.20191180648624"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1190.1096511365627" y1="413.71809059354985"
+            x2="1215.09442181204" y2="414.59057801111237"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1192.7346044578026" y1="388.74332801995257"
+            x2="1232.1269145782908" y2="395.68925512662975"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1198.8098270668725" y1="364.37694101250946"
+            x2="1222.5862399742512" y2="372.10236587188314"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1208.2170716661499" y1="341.0931935779661"
+            x2="1230.6869228236292" y2="352.052472247693"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1220.7732369400926" y1="319.34527737526554"
+            x2="1241.4991762539685" y2="333.32509996203424"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1236.233931414069" y1="299.5564908554055"
+            x2="1254.8125520510039" y2="316.28475601437697"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1254.2982302564228" y1="282.11200023858396"
+            x2="1280.0097346438845" y2="312.75377796334305"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1274.6145324380232" y1="267.35134269184334"
+            x2="1287.8625140438533" y2="288.552545095754"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1296.787404246356" y1="255.56181762433184"
+            x2="1306.955820323251" y2="278.40045406539684"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1320.3852759529402" y1="246.9728947311026"
+            x2="1327.2762098483652" y2="271.0044371295606"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1344.9488418271883" y1="241.75174762651733"
+            x2="1348.4281693511898" y2="266.5084493450566"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1370" y1="240"
+            x2="1370" y2="280"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1395.051158172812" y1="241.75174762651736"
+            x2="1391.5718306488102" y2="266.50844934505665"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1419.6147240470598" y1="246.9728947311026"
+            x2="1412.7237901516348" y2="271.0044371295606"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1443.212595753644" y1="255.56181762433184"
+            x2="1433.044179676749" y2="278.40045406539684"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1465.3854675619768" y1="267.35134269184334"
+            x2="1452.1374859561467" y2="288.552545095754"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1485.7017697435772" y1="282.11200023858396"
+            x2="1459.9902653561155" y2="312.75377796334305"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1503.766068585931" y1="299.5564908554055"
+            x2="1485.1874479489961" y2="316.28475601437697"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1519.2267630599074" y1="319.34527737526554"
+            x2="1498.5008237460315" y2="333.32509996203424"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1531.7829283338501" y1="341.0931935779661"
+            x2="1509.3130771763708" y2="352.052472247693"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1541.1901729331275" y1="364.37694101250946"
+            x2="1517.4137600257488" y2="372.10236587188314"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1547.2653955421974" y1="388.7433280199525"
+            x2="1507.8730854217092" y2="395.68925512662975"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1549.8903488634373" y1="413.71809059354985"
+            x2="1524.90557818796" y2="414.59057801111237"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1549.0139411662892" y1="438.8151233881776"
+            x2="1524.1508937820824" y2="436.2019118064863"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1544.6532307296793" y1="463.5459412079402"
+            x2="1520.3958375727793" y2="457.4978938179485"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1536.8930938220217" y1="487.4291868148642"
+            x2="1513.713497457852" y2="478.06402197946636"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+      <line x1="1525.884572681199" y1="510"
+            x2="1491.2435565298215" y2="490"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+            shape-rendering="crispEdges"/>
+  
+        <text x="1279.067332602634" y="472.5"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              0
+        </text>
+        <text x="1266.595185933718" y="401.76694134497234"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              5
+        </text>
+        <text x="1302.5073009829134" y="339.5653334725073"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              10
+        </text>
+        <text x="1370" y="315"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              15
+        </text>
+        <text x="1437.4926990170866" y="339.5653334725073"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              20
+        </text>
+        <text x="1473.404814066282" y="401.76694134497234"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              25
+        </text>
+        <text x="1460.932667397366" y="472.5"
+              fill="url(#fire)"
+              font-size="18"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              filter="url(#glow)">
+              30
+        </text>
+
+  <polygon points="
+      1365,420
+      1375,420
+      1370,295"
+      fill="url(#fire)"
+      transform="rotate(-120 1370 420)"
+      filter="url(#glow)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="-120 1370 420"
+      to="-88 1370 420"
+      dur="1s"
+      fill="freeze"/>
+  </polygon>
+
+  <circle cx="1370" cy="420" r="10" fill="white"/>
+
+  <ellipse cx="1370" cy="351.2"
+           rx="139.75"
+           ry="53.75"
+           fill="white"
+           opacity="0.05"/>
+
+  <text x="1370" y="351.2"
+        text-anchor="middle"
+        fill="url(#fire)"
+        font-size="20"
+        font-weight="bold"
+        letter-spacing="2"
+        filter="url(#glow)">
+    DAYS
+  </text>
+
+  <rect x="1295" y="550"
+        width="150"
+        height="48"
+        rx="10"
+        fill="#1b3a0f"/>
+
+  <text x="1370" y="576"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#9CFF00"
+        font-size="18"
+        letter-spacing="2">
+    4 DAYS
+  </text>
+  
+
+</svg>
