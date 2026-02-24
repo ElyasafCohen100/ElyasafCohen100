@@ -96,6 +96,10 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 </p>
 
 <p align="center">
+  <img src="EC2.png" width="600">
+</p>
+
+<p align="center">
   <a href="https://github.com/ElyasafCohen100">
     <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
