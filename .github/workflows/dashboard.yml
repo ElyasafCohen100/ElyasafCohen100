@@ -13,17 +13,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # Checkout repo
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      # Setup Node
+      - uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - run: node generate-dashboard.js
+      # Install dependencies (אם יש בעתיד)
+      - run: npm install || true
 
-      - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add dashboard.svg
-          git commit -m "Update dashboard 🚗" || echo "No changes"
+      # 🔥 Fetch GitHub stats (יוצר stats.json)
+      - name: Fetch GitHub Data
+        run: node fetch-github.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # 🎯 Generate SVG dashboard
+      - name: Generate Dashboard SVG
+        run: node generate-dashboard.js
+
+      # 🚀 Commit if changed
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dashboard.svg stats.json
+          git commit -m "Auto update dashboard 🚗" || echo "No changes"
           git push
