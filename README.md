@@ -76,12 +76,11 @@ from management systems and APIs to games and interactive applications. 🥳🪄
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
 
 <p align="center">
   <img src="dashboard.svg" />
 </p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
 
 ---
 
