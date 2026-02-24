@@ -70,7 +70,11 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ## 📊 GitHub Stats 📊
 
-🔥 Contribution Activity & Streak 🔥
+<p align="center">
+  <sub>Real-time activity • Streak intelligence • Contribution analytics</sub>
+</p>
+
+### 🔥 Official Contribution Overview 🔥
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
@@ -80,33 +84,9 @@ from management systems and APIs to games and interactive applications. 🥳🪄
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="dashboard.svg" />
-</p>
-
 ---
 
-## 🧠 GitHub Performance Dashboard
-
-<p align="center">
-  <sub>Real-time activity • Streak intelligence • Contribution analytics</sub>
-</p>
-
----
-
-### 🔥 Official Contribution Overview
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
-</p>
-
----
-
-### 🚀 Custom Activity Engine
+### 🪴 Custom Activity Engine 🪴
 
 <p align="center">
   <img src="dashboard.svg" />
