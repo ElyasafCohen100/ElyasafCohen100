@@ -80,14 +80,32 @@ from management systems and APIs to games and interactive applications. 🥳🪄
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
 </p>
 
----
-
-⏳ Contribution Activity & Streak ⏳
 <p align="center">
   <img src="dashboard.svg" />
 </p>
 
 ---
+
+## 📊 GitHub Activity Dashboard 📊
+
+### 🔥 Annual Contribution Overview
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ElyasafCohen100&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElyasafCohen100&theme=github_dark" />
+</p>
+
+---
+
+### 🚀 Performance Metrics Engine
+
+<p align="center">
+  <img src="dashboard.svg" />
+</p>
+
 
 ## 🌱 Currently Learning 🌱
 -  🤖 AI-driven systems & LLM integrations
