@@ -817,7 +817,7 @@
         stroke-dashoffset="1160.29488672583">
     <animate attributeName="stroke-dashoffset"
              from="1160.29488672583"
-             to="1044.265398053247"
+             to="1160.29488672583"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -1078,7 +1078,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 800 420"
-      to="-96 800 420"
+      to="-120 800 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -1113,7 +1113,7 @@
         fill="#9CFF00"
         font-size="20"
         letter-spacing="2">
-    3 DAYS
+    0 DAYS
   </text>
   
   
