@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Elyasaf Cohen 👋😎 </h1>
 
 <h3 align="center">
-Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
+Software Engineer | Full-Stack Developer | Creative Builder 🔮💻🔮💻
 </h3>
 
 <p align="center">
