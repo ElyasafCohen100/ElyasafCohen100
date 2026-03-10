@@ -38,7 +38,7 @@
 
 <!-- DASHBOARD TITLES -->
 
-<text x="230" y="-200"
+<text x="230" y="-100"
       text-anchor="middle"
       fill="url(#fire)"
       font-size="30"
