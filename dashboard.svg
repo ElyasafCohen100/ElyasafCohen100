@@ -38,10 +38,10 @@
 
 <!-- DASHBOARD TITLES -->
 
-<text x="230" y="170"
+<text x="230" y="100"
       text-anchor="middle"
       fill="url(#fire)"
-      font-size="28"
+      font-size="30"
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
@@ -51,7 +51,7 @@
 <text x="800" y="170"
       text-anchor="middle"
       fill="url(#fire)"
-      font-size="28"
+      font-size="30"
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
@@ -61,7 +61,7 @@
 <text x="1370" y="170"
       text-anchor="middle"
       fill="url(#fire)"
-      font-size="28"
+      font-size="30"
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
