@@ -36,29 +36,35 @@
 
   </defs>
 
-     <!-- DASHBOARD TITLES --> 
+<!-- DASHBOARD TITLES -->
 
-<text x="230" y="180"
+<text x="230" y="170"
       text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
+      fill="url(#fire)"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="2"
+      filter="url(#glow)">
   COMMIT ACTIVITY
 </text>
 
-<text x="800" y="180"
+<text x="800" y="170"
       text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
+      fill="url(#fire)"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="2"
+      filter="url(#glow)">
   CURRENT STREAK
 </text>
 
-<text x="1370" y="180"
+<text x="1370" y="170"
       text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
+      fill="url(#fire)"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="2"
+      filter="url(#glow)">
   LONGEST STREAK
 </text>
   
