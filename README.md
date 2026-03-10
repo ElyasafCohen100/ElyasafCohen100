@@ -88,7 +88,7 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ### 🏁 Custom Activity Engine 🏁
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElyasafCohen100/ElyasafCohen100/output/dashboard.svg" />
+  <img src="dashboard.svg" />
 </p>
 <p align="center">
   <sub>Built & maintained by Elyasaf Cohen • Powered by GitHub API</sub>
