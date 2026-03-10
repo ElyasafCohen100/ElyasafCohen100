@@ -38,7 +38,7 @@
 
 <!-- DASHBOARD TITLES -->
 
-<text x="230" y="750"
+<text x="230" y="770"
       text-anchor="middle"
       fill="url(#fire)"
       font-size="30"
@@ -48,7 +48,7 @@
   COMMIT ACTIVITY
 </text>
 
-<text x="800" y="750"
+<text x="800" y="770"
       text-anchor="middle"
       fill="url(#fire)"
       font-size="30"
