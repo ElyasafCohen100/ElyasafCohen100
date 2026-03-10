@@ -45,7 +45,7 @@
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
-  COMMIT ACTIVITY
+ ☄️COMMIT ACTIVITY☄️
 </text>
 
 <text x="800" y="850"
@@ -55,7 +55,7 @@
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
-  CURRENT STREAK
+ 🔥CURRENT STREAK🔥
 </text>
 
 <text x="1370" y="700"
@@ -65,7 +65,7 @@
       font-weight="bold"
       letter-spacing="2"
       filter="url(#glow)">
-  LONGEST STREAK
+  💥LONGEST STREAK💥
 </text>
   
   <circle cx="230" cy="420" r="233" fill="url(#metal)"/>
