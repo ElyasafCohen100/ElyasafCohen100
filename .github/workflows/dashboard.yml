@@ -39,6 +39,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git fetch origin
+          git checkout output
           git add dashboard.svg stats.json
-          git commit -m "Auto update dashboard 🚗" || echo "No changes"
-          git push
+          git commit -m "Update dashboard 🚗" || echo "No changes"
+          git push origin output
