@@ -9,6 +9,36 @@
 
   <defs>
 
+<!-- DASHBOARD TITLES -->
+
+<text x="230" y="140"
+      text-anchor="middle"
+      fill="white"
+      font-size="36"
+      font-weight="bold"
+      letter-spacing="2">
+  📊COMMIT ACTIVITY📊
+</text>
+
+<text x="800" y="140"
+      text-anchor="middle"
+      fill="white"
+      font-size="36"
+      font-weight="bold"
+      letter-spacing="2">
+  🔥CURRENT STREAK🔥
+</text>
+
+<text x="1370" y="140"
+      text-anchor="middle"
+      fill="white"
+      font-size="36"
+      font-weight="bold"
+      letter-spacing="2">
+  🏆LONGEST STREAK🏆
+</text>
+
+       
     <radialGradient id="metal">
       <stop offset="0%" stop-color="#bbb"/>
       <stop offset="50%" stop-color="#444"/>
