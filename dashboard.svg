@@ -7,9 +7,7 @@
      shape-rendering="geometricPrecision"
      text-rendering="geometricPrecision">
 
-  <defs>
-
-<!-- DASHBOARD TITLES -->
+     <!-- DASHBOARD TITLES -->
 
 <text x="230" y="110"
       text-anchor="middle"
@@ -35,7 +33,8 @@
   LONGEST STREAK
 </text>
 
-       
+  <defs>
+     
     <radialGradient id="metal">
       <stop offset="0%" stop-color="#bbb"/>
       <stop offset="50%" stop-color="#444"/>
