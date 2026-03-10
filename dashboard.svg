@@ -7,32 +7,6 @@
      shape-rendering="geometricPrecision"
      text-rendering="geometricPrecision">
 
-     <!-- DASHBOARD TITLES -->
-
-<text x="230" y="110"
-      text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
-  COMMIT ACTIVITY
-</text>
-
-<text x="800" y="110"
-      text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
-  CURRENT STREAK
-</text>
-
-<text x="1370" y="110"
-      text-anchor="middle"
-      fill="white"
-      font-size="32"
-      font-weight="bold">
-  LONGEST STREAK
-</text>
-
   <defs>
      
     <radialGradient id="metal">
@@ -62,6 +36,31 @@
 
   </defs>
 
+     <!-- DASHBOARD TITLES -->
+
+<text x="230" y="110"
+      text-anchor="middle"
+      fill="white"
+      font-size="32"
+      font-weight="bold">
+  COMMIT ACTIVITY
+</text>
+
+<text x="800" y="110"
+      text-anchor="middle"
+      fill="white"
+      font-size="32"
+      font-weight="bold">
+  CURRENT STREAK
+</text>
+
+<text x="1370" y="110"
+      text-anchor="middle"
+      fill="white"
+      font-size="32"
+      font-weight="bold">
+  LONGEST STREAK
+</text>
   
   <circle cx="230" cy="420" r="233" fill="url(#metal)"/>
   <circle cx="230" cy="420" r="215" fill="url(#dial)"/>
