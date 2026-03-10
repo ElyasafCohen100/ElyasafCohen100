@@ -38,7 +38,7 @@
 
      <!-- DASHBOARD TITLES --> 
 
-<text x="230" y="110"
+<text x="230" y="180"
       text-anchor="middle"
       fill="white"
       font-size="32"
@@ -46,7 +46,7 @@
   COMMIT ACTIVITY
 </text>
 
-<text x="800" y="110"
+<text x="800" y="180"
       text-anchor="middle"
       fill="white"
       font-size="32"
@@ -54,7 +54,7 @@
   CURRENT STREAK
 </text>
 
-<text x="1370" y="110"
+<text x="1370" y="180"
       text-anchor="middle"
       fill="white"
       font-size="32"
