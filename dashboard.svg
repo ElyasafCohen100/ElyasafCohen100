@@ -11,31 +11,28 @@
 
 <!-- DASHBOARD TITLES -->
 
-<text x="230" y="140"
+<text x="230" y="110"
       text-anchor="middle"
       fill="white"
-      font-size="36"
-      font-weight="bold"
-      letter-spacing="2">
-  📊COMMIT ACTIVITY📊
+      font-size="32"
+      font-weight="bold">
+  COMMIT ACTIVITY
 </text>
 
-<text x="800" y="140"
+<text x="800" y="110"
       text-anchor="middle"
       fill="white"
-      font-size="36"
-      font-weight="bold"
-      letter-spacing="2">
-  🔥CURRENT STREAK🔥
+      font-size="32"
+      font-weight="bold">
+  CURRENT STREAK
 </text>
 
-<text x="1370" y="140"
+<text x="1370" y="110"
       text-anchor="middle"
       fill="white"
-      font-size="36"
-      font-weight="bold"
-      letter-spacing="2">
-  🏆LONGEST STREAK🏆
+      font-size="32"
+      font-weight="bold">
+  LONGEST STREAK
 </text>
 
        
