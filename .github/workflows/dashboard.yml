@@ -42,5 +42,5 @@ jobs:
           git fetch origin
           git checkout output
           git add dashboard.svg stats.json
-          git commit -m "Update dashboard 🚗" || echo "No changes"
+          git commit -m "🚗 Auto update dashboard" -m "Regenerate dashboard.svg and refresh stats.json" || echo "No changes"
           git push origin output
