@@ -1,14 +1,14 @@
 
 <svg 
      width="100%"
-     viewBox="0 0 1600 900"
+     viewBox="0 0 1600 800"
      preserveAspectRatio="xMidYMid meet"
      xmlns="http://www.w3.org/2000/svg"
      shape-rendering="geometricPrecision"
      text-rendering="geometricPrecision">
 
   <defs>
-     
+
     <radialGradient id="metal">
       <stop offset="0%" stop-color="#bbb"/>
       <stop offset="50%" stop-color="#444"/>
@@ -36,37 +36,6 @@
 
   </defs>
 
-<!-- DASHBOARD TITLES -->
-
-<text x="230" y="700"
-      text-anchor="middle"
-      fill="url(#fire)"
-      font-size="30"
-      font-weight="bold"
-      letter-spacing="2"
-      filter="url(#glow)">
- ☄️COMMIT ACTIVITY☄️
-</text>
-
-<text x="800" y="850"
-      text-anchor="middle"
-      fill="url(#fire)"
-      font-size="30"
-      font-weight="bold"
-      letter-spacing="2"
-      filter="url(#glow)">
- 🔥CURRENT STREAK🔥
-</text>
-
-<text x="1370" y="700"
-      text-anchor="middle"
-      fill="url(#fire)"
-      font-size="30"
-      font-weight="bold"
-      letter-spacing="2"
-      filter="url(#glow)">
-  💥LONGEST STREAK💥
-</text>
   
   <circle cx="230" cy="420" r="233" fill="url(#metal)"/>
   <circle cx="230" cy="420" r="215" fill="url(#dial)"/>
@@ -82,7 +51,7 @@
         stroke-dashoffset="825.1916703429189">
     <animate attributeName="stroke-dashoffset"
              from="825.1916703429189"
-             to="569.382252536614"
+             to="552.8784191297556"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -795,7 +764,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 230 420"
-      to="-45.599999999999994 230 420"
+      to="-40.8 230 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -830,7 +799,7 @@
         fill="#9CFF00"
         font-size="18"
         letter-spacing="2">
-    31% COMMITS
+    33% COMMITS
   </text>
   
   
@@ -848,7 +817,7 @@
         stroke-dashoffset="1160.29488672583">
     <animate attributeName="stroke-dashoffset"
              from="1160.29488672583"
-             to="1044.265398053247"
+             to="1082.9418942774414"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -1109,7 +1078,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 800 420"
-      to="-96 800 420"
+      to="-104 800 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -1144,7 +1113,7 @@
         fill="#9CFF00"
         font-size="20"
         letter-spacing="2">
-    3 DAYS
+    2 DAYS
   </text>
   
   
