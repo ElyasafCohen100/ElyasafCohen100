@@ -37,8 +37,8 @@ jobs:
       # 🚀 Commit if changed
       - name: Commit and Push
         run: |
-          git config user.name "ElyasafBot 🤖"
-          git config user.email "92228398+ElyasafCohen100@users.noreply.github.com"
+          git config --global user.name "ElyasafBot 🤖"
+          git config --global user.email "92228398+ElyasafCohen100@users.noreply.github.com"
           git add dashboard.svg stats.json
-          git commit -m "🤖 Elyasaf GitHub Intelligence $(date +%Y-%m-%d)" -m "📊 Refresh profile analytics (dashboard.svg + stats.json)" || echo "No changes"
+          git commit -m "🤖 GitHub Intelligence $(date +%Y-%m-%d)" -m "📊 Dashboard refreshed automatically" || echo "No changes"
           git push
