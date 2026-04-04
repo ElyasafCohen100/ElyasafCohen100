@@ -51,7 +51,7 @@
         stroke-dashoffset="825.1916703429189">
     <animate attributeName="stroke-dashoffset"
              from="825.1916703429189"
-             to="420.8477518748886"
+             to="412.59583517145944"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -764,7 +764,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 230 420"
-      to="-2.4000000000000057 230 420"
+      to="0 230 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -799,7 +799,7 @@
         fill="#9CFF00"
         font-size="18"
         letter-spacing="2">
-    49% COMMITS
+    50% COMMITS
   </text>
   
   
@@ -817,7 +817,7 @@
         stroke-dashoffset="1160.29488672583">
     <animate attributeName="stroke-dashoffset"
              from="1160.29488672583"
-             to="309.41196979355476"
+             to="270.7354735693603"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -1078,7 +1078,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 800 420"
-      to="56 800 420"
+      to="64 800 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -1113,7 +1113,7 @@
         fill="#9CFF00"
         font-size="20"
         letter-spacing="2">
-    22 DAYS
+    23 DAYS
   </text>
   
   
@@ -1131,7 +1131,7 @@
         stroke-dashoffset="825.1916703429189">
     <animate attributeName="stroke-dashoffset"
              from="825.1916703429189"
-             to="220.05111209144508"
+             to="192.54472308001436"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -1392,7 +1392,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 1370 420"
-      to="56 1370 420"
+      to="64 1370 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -1427,7 +1427,7 @@
         fill="#9CFF00"
         font-size="18"
         letter-spacing="2">
-    22 DAYS
+    23 DAYS
   </text>
   
 
