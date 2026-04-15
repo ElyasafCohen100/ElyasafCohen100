@@ -51,7 +51,7 @@
         stroke-dashoffset="825.1916703429189">
     <animate attributeName="stroke-dashoffset"
              from="825.1916703429189"
-             to="321.82475143373836"
+             to="313.5728347303092"
              dur="1s"
              fill="freeze"/>
   </path>
@@ -764,7 +764,7 @@
       attributeName="transform"
       type="rotate"
       from="-120 230 420"
-      to="26.400000000000006 230 420"
+      to="28.80000000000001 230 420"
       dur="1s"
       fill="freeze"/>
   </polygon>
@@ -799,7 +799,7 @@
         fill="#9CFF00"
         font-size="18"
         letter-spacing="2">
-    61% COMMITS
+    62% COMMITS
   </text>
   
   
