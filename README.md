@@ -30,7 +30,7 @@ Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
 
 I'm a **Software Engineer** and **Full-Stack Developer** with hands-on experience building end-to-end applications using **React**, **TypeScript**, **C#**, **ASP.NET** **Core**, and **Python**. 💻🚀
 
-I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **LLM-powered solutions**, and enjoy turning complex ideas into practical, well-designed software.
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **LLM-powered solutions**, and enjoy turning complex ideas into practical, well-designed software.⚡🔥⚡
 
 I love exploring new technologies, solving challenging problems, and combining logic, creativity, and engineering to build meaningful projects. 🧠✨
 
@@ -128,9 +128,11 @@ I love exploring new technologies, solving challenging problems, and combining l
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/elyasaf-cohen/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+   <a href="https://www.linkedin.com/in/elyasaf-cohen/">
+     <img src="https://img.shields.io/badge/LinkedIn-ElyasafCohen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+</p>
 
 ---
 
