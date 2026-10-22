@@ -67,7 +67,8 @@ I love exploring new technologies, solving challenging problems, and combining l
 
 ## 🚀 Featured Projects 🚀
 
-- 🐠 **[Aquarium Builder](https://github.com/ElyasafCohen100/Aquarium-Builder)** – Full-stack aquarium management application built with React, TypeScript, C# and ASP.NET Core.
+- 🐠 **[Aquarium Builder](https://github.com/ElyasafCohen100/Aquarium-Builder)** – full-stack aquarium management system with React & ASP.NET Core
+
 - 📈 **[Investment Advisor Project](https://github.com/ElyasafCohen100/Investment-Advisor-Project)** - AI powered stock portfolio manager
   
 - 🚁 **[Drone Delivery Manager](https://github.com/ElyasafCohen100/Drone-Delivery-Manager)** – multi layer system with live simulator
