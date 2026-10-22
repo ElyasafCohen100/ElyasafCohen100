@@ -28,10 +28,11 @@ Software Engineer | Full-Stack Developer | Creative Builder 🔮💻
 
 ## ✨ About Me ✨
 
-I'm a **Software Engineering student** and a passionate **full-stack developer** who loves building systems end-to-end —> from clean backend architecture to polished frontend experiences 🎨⚙️  
+I'm a **Software Engineer** and **Full-Stack Developer** with hands-on experience building end-to-end applications using **React**, **TypeScript**, **C#**, **ASP.NET** **Core**, and **Python**. 💻🚀
 
-I enjoy combining **logic, creativity, and technology** to create meaningful projects -  
-from management systems and APIs to games and interactive applications. 🥳🪄
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **LLM-powered solutions**, and enjoy turning complex ideas into practical, well-designed software.
+
+I love exploring new technologies, solving challenging problems, and combining logic, creativity, and engineering to build meaningful projects. 🧠✨
 
 ---
 
@@ -46,13 +47,21 @@ from management systems and APIs to games and interactive applications. 🥳🪄
 
 ![Redux](https://img.shields.io/badge/Redux-State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-Design-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### 🐍 Python & GUI:
 
 ![Processing](https://img.shields.io/badge/Processing-Creative_Coding-006699?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### 🤖 AI & Developer Tools:
+
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-AI_Applications-0A66C2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -118,6 +127,10 @@ from management systems and APIs to games and interactive applications. 🥳🪄
     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+<a href="https://www.linkedin.com/in/elyasaf-cohen/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
