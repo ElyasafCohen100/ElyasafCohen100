@@ -74,8 +74,6 @@ I love exploring new technologies, solving challenging problems, and combining l
 - 🚁 **[Drone Delivery Manager](https://github.com/ElyasafCohen100/Drone-Delivery-Manager)** – multi layer system with live simulator
  
 - 📱 **[React PhoneBook App](https://github.com/ElyasafCohen100/React-PhoneBook-App)** – modern UI with Redux & MUI
- 
-- 🐶 **[Doggy Bones Game](https://github.com/ElyasafCohen100/Doggy-bones-game)** – fun arcade game built with Processing  
 
 ---
 
